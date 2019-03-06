@@ -1,0 +1,37 @@
+
+# Instructions: edit this file to provide your homework answers.
+# Problem numbers are shown on lines that begin with #@.
+#
+# Please put your solution to a problem after the line that gives
+# the number of that problem.  For multiple choice questions,
+# just use the letter or number associated with the choice.
+#
+# Do not modify this file *except* to add lines as needed after each problem.
+# Blank lines are ignored.
+#
+# The homework will be graded by a script, so you will not get points
+# if you don't follow these formatting instructions.
+#
+
+# 2 Linear Algebra
+
+#@ 2a -- enter a matrix
+[[2,-1],[-1,2]]
+#@ 2b -- enter a number
+1
+#@ 2c -- enter a number
+1
+#@ 2d -- enter 'Y' or 'N'  (don't use quotes)
+N
+#@ 2e -- enter a number
+5
+#@ 2f -- enter 'Y' or 'N'
+Y
+#@ 2g -- enter 'a', 'b', or 'c'
+n
+#@ 2h -- enter a number
+1
+#@ 2i -- enter 'T' or 'F'
+T
+#@ 1j -- enter 'T' or 'F'
+F

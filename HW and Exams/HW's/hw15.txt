@@ -1,0 +1,37 @@
+
+# Instructions: edit this file to provide your homework answers.
+#
+# Problem numbers are shown on lines that begin with #@.
+# Please put your solution to a problem on the line *after* the
+# line with the problem number.
+#
+# Do not modify this file *except* to add lines as needed after each problem.
+# Blank lines are ignored.
+#
+# No points will be awarded to incorrectly-formatted files.
+#
+
+# part 1
+
+#@ 1a -- enter 'a', 'b', or 'c'
+b
+#@ 1b -- enter 'Y' or 'N'
+Y
+#@ 1c -- enter 'T' or 'F'
+F
+#@ 1d -- enter 'a', 'b', or 'c'
+a
+#@ 1e -- enter a number
+128
+# part 2
+
+#@ 2a -- enter 'a', 'b', or 'c'   (don't use quotes in any of your answers)
+c
+#@ 2b -- enter a number  (don't provide units -- units of seconds are assumed)
+0.5
+#@ 2c -- enter a number  (don't provide units -- units of MB/sec are assumed)
+0.97
+#@ 2d -- enter 'a', 'b', 'c', or 'd'
+c
+#@ 2e -- enter 'a', 'b', or 'c'
+b
